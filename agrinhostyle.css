@@ -1,0 +1,23 @@
+body{
+background: white;
+}
+.img1{
+	padding: 2%;
+}
+
+.principal{
+	padding:20px;
+}
+
+.titulo-principal{
+	padding-left: 20px;
+	text-align: center;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
